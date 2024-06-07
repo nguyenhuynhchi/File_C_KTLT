@@ -1,0 +1,8 @@
+﻿Câu 1: (4.0 điểm)
+- Viết chương trình nhập vào một số nguyên thuộc đoạn [x, y], biết rằng x<y. 
+- Hãy cho biết số nguyên vừa nhập có toàn chữ số là số nguyên tố hay không?
+
+Câu 2: (6.0 điểm)
+- Viết chương trình nhập vào số năm thâm niên của các nhân viên trong công ty ABC.
+- Viết hàm tính trung bình cộng thâm niên của các nhân viên có thâm niên trên 10 năm.
+- Hãy cho biết số năm thâm niên cao nhất là bao nhiêu và cho biết có bao nhiêu nhân viên có thâm niên cao nhất.
